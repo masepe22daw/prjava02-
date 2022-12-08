@@ -1,0 +1,6 @@
+Primer crea una branca de nom branca00 amb git branch branca00.
+Després de tots els processos tornem a la branca main del projecte i veiem l'estat del projecte i veiem l'historial de la branca main.
+Tornem a la branca00.Actualitzemcontingut del fitxer Prjava02.java i podem veure que s'han fet canvis.
+Fusionem les branques branca00 i master, amb git merge branca00.
+Fem un push i veiem el Github que s'ha actualitzat. Veiem el git log i la branca main s'ha actualitzat.
+Psh de branca01 del dipòsit local al dipòsit remot.

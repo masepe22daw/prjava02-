@@ -4,3 +4,13 @@ Tornem a la branca00.Actualitzemcontingut del fitxer Prjava02.java i podem veure
 Fusionem les branques branca00 i master, amb git merge branca00.
 Fem un push i veiem el Github que s'ha actualitzat. Veiem el git log i la branca main s'ha actualitzat.
 Psh de branca01 del dipòsit local al dipòsit remot.
+
+6.- Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?
+No, perquè en aquesta branca el canvi no s’ha produit.
+
+7.- Torna a la branca branca00. Des de geany, actualitza el contingut del fitxer Prjava02.java. Pots veure l'última línia afegida?. Per què?.
+Ara sí que apareix, perquè en aquesta branca si que havíem fet els canvis al fitxer, i els havíem guardat al git.
+
+12c.- Perquè son diferents branques.
+
+14c.- Està a un commit de la branca main.
